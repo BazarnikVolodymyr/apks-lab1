@@ -58,3 +58,4 @@ dist\hello.exe
 ```text
 ctest --test-dir build -C Release --output-on-failure
 ```
+
